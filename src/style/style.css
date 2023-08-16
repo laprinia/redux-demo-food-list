@@ -1,0 +1,68 @@
+#root {
+    font-family: "Sarabun", serif;
+}
+body{
+    background-color: rgb(28, 28, 33);
+    color: #ece3e1;
+}
+.main {
+    display: flex;
+}
+.food-section {
+    display: flex;
+    flex-direction: column;
+    width: 50vw; /* Half of the viewport width */
+    border: 1px solid #ccc;
+    padding: 16px;
+    background-color: #333333;
+    color: #ffffff;
+    box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.1);
+}
+
+.food-section h4 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.food-section ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 12px;
+}
+
+.food-section li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #555555;
+}
+
+.food-section button {
+    background-color: #129f54;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+.food-section button:hover {
+    background-color: #0c6a38;
+}
+
+
+.nutritional-section {
+    width: 100vw;
+    color: #ffffff;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.nutritional-section  ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nutritional-section  li {
+    margin-bottom: 8px;
+}

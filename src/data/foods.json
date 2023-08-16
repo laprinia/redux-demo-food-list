@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "Boiled Egg",
+    "fat": 0,
+    "sodium": 1280,
+    "carbs": 7.8,
+    "protein": 81
+  },
+  {
+    "id": 1,
+    "name": "Tofu",
+    "fat": 30,
+    "sodium": 6,
+    "carbs": 8.3,
+    "protein": 52
+  },
+  {
+    "id": 2,
+    "name": "Cod Fish",
+    "fat": 2.4,
+    "sodium": 7027,
+    "carbs": 0,
+    "protein": 63
+  },
+  {
+    "id": 3,
+    "name": "Raw Avocado",
+    "fat": 34,
+    "sodium": 16,
+    "carbs": 20,
+    "protein": 4.6
+
+  },
+  {
+    "id": 4,
+    "name": "French Toast",
+    "fat": 7.2,
+    "sodium": 210,
+    "carbs": 21,
+    "protein": 6.8
+  },
+  {
+    "id": 5,
+    "name": "Cooked Sausage",
+    "fat": 12,
+    "sodium": 350,
+    "carbs": 0.2,
+    "protein": 6.8
+  },
+  {
+    "id": 6,
+    "name": "Orange Juice",
+    "fat": 0.5,
+    "sodium": 2.5,
+    "carbs": 26,
+    "protein": 1.7
+  }
+
+]
