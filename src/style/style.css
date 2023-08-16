@@ -5,7 +5,7 @@ body{
     background-color: rgb(28, 28, 33);
     color: #ece3e1;
 }
-.main {
+.main-section {
     display: flex;
 }
 .food-section {

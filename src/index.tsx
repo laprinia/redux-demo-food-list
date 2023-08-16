@@ -8,7 +8,6 @@ import availableList from "./reducers/availableList";
 import "./style/style.css";
 
 const store = createStore(combineReducers({ currentList, availableList }));
-store.subscribe(() => console.log("hi store", store.getState()));
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement,
 );

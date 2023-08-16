@@ -7,11 +7,10 @@ const App = () => {
   return (
     <>
       <h1>Nutritional App</h1>
-      <section className="main">
+      <section className="main-section">
         <FoodList />
         <CurrentList />
       </section>
-
       <NutritionalValues />
     </>
   );
